@@ -1,5 +1,7 @@
 ![](http://upload-images.jianshu.io/upload_images/7178691-0d965cf51eb5af9e.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240)
 
+forked from [iamseancheney/python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
+
 在简书上阅读： [https://www.jianshu.com/p/04d180d90a3f](https://www.jianshu.com/p/04d180d90a3f)
 
 下载本书：[http://www.jianshu.com/p/fad9e41c1a42](http://www.jianshu.com/p/fad9e41c1a42) （更新为GitHub链接）
