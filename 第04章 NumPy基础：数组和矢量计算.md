@@ -1,3 +1,4 @@
+#第04章-NumPy基础：数组和矢量计算
 NumPy（Numerical Python的简称）是Python数值计算最重要的基础包。大多数提供科学计算的包都是用NumPy的数组作为构建基础。
 
 NumPy的部分功能如下：
